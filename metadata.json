@@ -1,0 +1,6 @@
+{
+  "name": "Apple-Inspired Video Editor & Motion Designer Portfolio",
+  "description": "High-fidelity editorial portfolio for Kevin Perez — Motion Designer & Video Editor, featuring interactive macOS Dock, retro desktop widgets, and rich project showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
